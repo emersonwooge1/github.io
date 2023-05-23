@@ -1,1 +1,1 @@
-Hello All!  I'm working through an online data scientist course called dataquest.  It's been a great resource and I would highly reccomend it for anyone looking to further their data science skills. These are my projects I've been working :)
+Hello All!  I'm working through an online data scientist course called dataquest.  It's been a great resource and I would highly recommend it for anyone looking to further their data science skills. These are my projects I've been working :)
